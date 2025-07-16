@@ -1,10 +1,7 @@
-Here’s a **Project Overview** for your **Spotify Music Recommendation System**—suitable for a portfolio, GitHub README, or school project submission.
-
----
 
 ## 🎧 Music Recommendation System Using Spotify Dataset
 
-### 📌 Project Overview
+###  Project Overview
 
 This project aims to build a **Music Recommendation System** using the **Spotify Tracks Dataset**, which contains audio features and metadata for thousands of songs across multiple genres. The recommendation engine leverages **content-based filtering** techniques using acoustic features such as danceability, energy, tempo, and valence to suggest similar songs to the user.
 
@@ -12,7 +9,7 @@ Music streaming platforms like Spotify, Apple Music, and YouTube Music rely on s
 
 ---
 
-### 🎯 Objectives
+###  Objectives
 
 * Perform **exploratory data analysis (EDA)** to understand song features and genre distribution.
 * Build a **content-based recommender** that suggests similar tracks based on audio features.
@@ -21,7 +18,7 @@ Music streaming platforms like Spotify, Apple Music, and YouTube Music rely on s
 
 ---
 
-### 📂 Dataset
+###  Dataset
 
 * **Source**: [Ultimate Spotify Tracks Dataset – Kaggle](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks)
 * **Attributes**:
@@ -36,7 +33,7 @@ Music streaming platforms like Spotify, Apple Music, and YouTube Music rely on s
 
 ---
 
-### 🧠 Techniques Used
+###  Techniques Used
 
 * **Data Preprocessing**: Handling duplicates, missing values, scaling numeric features.
 * **Feature Engineering**: Using audio attributes as input vectors.
@@ -47,7 +44,7 @@ Music streaming platforms like Spotify, Apple Music, and YouTube Music rely on s
 
 ---
 
-### ✅ Outputs
+###  Outputs
 
 * A list of similar tracks given a user-selected song.
 * Optionally, cluster-based recommendations like “Upbeat songs” or “Relaxing music”.
@@ -55,7 +52,7 @@ Music streaming platforms like Spotify, Apple Music, and YouTube Music rely on s
 
 ---
 
-### 🚀 Potential Extensions
+###  Potential Extensions
 
 * Add **collaborative filtering** if user preference or playlist data becomes available.
 * Integrate **lyrics analysis** using NLP techniques.
